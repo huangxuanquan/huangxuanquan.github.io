@@ -8,7 +8,7 @@
       <link href="/2021/09/15/git-chang-yong-ming-ling/"/>
       <url>/2021/09/15/git-chang-yong-ming-ling/</url>
       
-        <content type="html"><![CDATA[<h3 id="同步远程仓库"><a href="#同步远程仓库" class="headerlink" title="同步远程仓库"></a>同步远程仓库</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 创建一个空的远程仓库：登录github -&gt; new repository# 2. 初始化本地仓库 git init# 3. 编辑文件# 4. 编辑区添加到暂存区：git add .# 5. 暂存区提交到分支：git commit -m "备注"# 6. 创建远程主机名：git remote# 7. 同步远程仓库：git push -u origin master# 8. 克隆项目：git clone url# 9. 拉取项目代码: git pull<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="分支管理"><a href="#分支管理" class="headerlink" title="分支管理"></a>分支管理</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 查看分支，默认只有master分支git branch# 2. 创建teacher分支git branch teacher# 3. 切换分支git checkout teacher# 4. 在自己分支上修改文件并提交。# 5. 合并分支：切换至master分支，git merge dev# 6. 本地分支推送至远程分支:git push origin feature-branch:feature-branch# 7. 远程分支拉倒本地：git checkout -b feature-branch origin/feature-branch<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="切换版本"><a href="#切换版本" class="headerlink" title="切换版本"></a>切换版本</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 查看历史记录git log# 2. 恢复版本，版本号写前几位就可以git reset --hard &lt;版本号&gt;# 3. 查看命令记录git reflog<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="同步远程仓库"><a href="#同步远程仓库" class="headerlink" title="同步远程仓库"></a>同步远程仓库</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 创建一个空的远程仓库：登录github -&gt; new repository# 2. 初始化本地仓库 git init# 3. 编辑文件# 4. 编辑区添加到暂存区：git add .# 5. 暂存区提交到分支：git commit -m "备注"# 6. 创建远程主机名：git remote# 7. 同步远程仓库：git push -u origin master# 8. 克隆项目：git clone url# 9. 拉取项目代码: git pull<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="分支管理"><a href="#分支管理" class="headerlink" title="分支管理"></a>分支管理</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 查看分支，默认只有master分支git branch# 2. 创建teacher分支git branch teacher# 3. 切换分支git checkout teacher# 4. 在自己分支上修改文件并提交。# 5. 合并分支：切换至master分支，git merge dev# 6. 本地分支推送至远程分支:git push origin feature-branch:feature-branch# 7. 远程分支拉倒本地：git checkout -b feature-branch origin/feature-branch<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="切换版本"><a href="#切换版本" class="headerlink" title="切换版本"></a>切换版本</h3><pre class="line-numbers language-none"><code class="language-none"># 1. 查看历史记录git log# 2. 恢复版本，版本号写前几位就可以git reset --hard &lt;版本号&gt;# 3. 查看命令记录git reflog<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       
@@ -27,13 +27,13 @@
       <link href="/2021/09/15/wo-de-di-yi-pian-wen-zhang/"/>
       <url>/2021/09/15/wo-de-di-yi-pian-wen-zhang/</url>
       
-        <content type="html"><![CDATA[<p>第一次发布文章</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>第一次发博客</p><p>很高兴！！！今后会继续分享干货！！！！！！！！</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 个人介绍 </tag>
+            <tag> 介绍 </tag>
             
         </tags>
       
