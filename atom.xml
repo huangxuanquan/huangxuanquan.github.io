@@ -6,7 +6,7 @@
   <link href="https://huangxuanquan.github.io/atom.xml" rel="self"/>
   
   <link href="https://huangxuanquan.github.io/"/>
-  <updated>2021-09-15T09:46:19.055Z</updated>
+  <updated>2021-09-16T08:08:56.553Z</updated>
   <id>https://huangxuanquan.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo和matery搭建博客</title>
+    <link href="https://huangxuanquan.github.io/2021/09/16/hexo-he-matery-da-jian-bo-ke/"/>
+    <id>https://huangxuanquan.github.io/2021/09/16/hexo-he-matery-da-jian-bo-ke/</id>
+    <published>2021-09-16T07:05:00.000Z</published>
+    <updated>2021-09-16T08:08:56.553Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="博客搭建" scheme="https://huangxuanquan.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Git的常用命令</title>
     <link href="https://huangxuanquan.github.io/2021/09/15/git-chang-yong-ming-ling/"/>
     <id>https://huangxuanquan.github.io/2021/09/15/git-chang-yong-ming-ling/</id>
     <published>2021-09-15T09:40:00.000Z</published>
-    <updated>2021-09-15T09:46:19.055Z</updated>
+    <updated>2021-09-16T07:01:35.300Z</updated>
     
     
       
